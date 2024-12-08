@@ -11,3 +11,4 @@ SaRaBoT.py es un bot para Discord diseñado para mejorar la interacción en tu s
 - **Contenido nsfw**: Ofrece comandos para contenido explícito.
 
 ¡Invita a SaRaBoT.py a tu servidor y descubre todas sus funcionalidades!
+[website](https://saraowo.github.io/)[githubSponsor](https://github.com/sponsors/Evergaster)[soport](https://discord.gg/Yy4CDZYp2t)
