@@ -17,7 +17,7 @@ class Msg(commands.Cog):
 
         self.embedMention = discord.Embed(
             title="gracias por mencionarme",
-            description=">>> mi prefijo es 's!', pero si te sientes mas comodo puedes usar los slash commands '/' para interactuar conmigo\npara ver mis comandos puedes usar 's!help' o  '/help'\n si quieres apoyarme puedes hacerlo en [github Sponsor](https://github.com/sponsors/EverGasterXd)",
+            description=">>> mi prefijo es 's!', pero si te sientes mas comodo puedes usar los slash commands '/' para interactuar conmigo\npara ver mis comandos puedes usar 's!help' o  '/help'\n si quieres apoyarme puedes hacerlo en [github Sponsor](https://github.com/sponsors/Evergaster)",
             color=discord.Color.red()
         )
 
